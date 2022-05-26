@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @smajaas
-- 👀 Full stack developer
+- 👀 MERN stack developer
 - 🌱 Experience and Knowledge in HTML,CSS,Javascript,React JS,MongoDB,NodeJS Express and SQL
 - 2 years of Experience as a Developer
 - 10 years ofexperience in Non IT background with knowledge in Business Development & Client Relations specialist
-- Instead of Reading Books now Exploring the world of Digital Marketing in leisure hours.
+- Hobbies are Reading Books, Driving long roads, Cooking and Exploring new things.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...smajaas@gmail.com 
 
