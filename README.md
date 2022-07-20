@@ -47,7 +47,7 @@ I'm Mohammed Ajaas, a MERN stack developer from Chennai. I take it as a challeng
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
 <a href="https://twitter.com/smajaas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mohammed Ajaas" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/smajaas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanush-savadi-2161181b1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/smajaas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajaas" height="30" width="40" /></a>
 
 </p>
 
