@@ -1,23 +1,13 @@
 
- 
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there!.</h1>
 
-
-
 I'm Mohammed Ajaas, a MERN stack developer from Chennai. I take it as a challenge and enjoy learning functional programs and frameworks like React and React Native. I concenterate on React, Node JS and React Native. I am looking forward to help you in solving real time challenges.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smajaas&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smajaas&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ⚡ Things I code with
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-
- 
    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
  <img alt="Expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
@@ -38,3 +28,12 @@ I'm Mohammed Ajaas, a MERN stack developer from Chennai. I take it as a challeng
 </p>
 
 <img alt="contribution" src="https://github.com/ragavkumarv/ragavkumarv/blob/output/github-contribution-grid-snake.svg" />
+
+## 😄 Cool Status
+
+(https://github-readme-stats.vercel.app/api?username=smajaas&show_icons=true&theme=radical)
+
+(https://github-readme-streak-stats.herokuapp.com/?user=smajaas&theme=radical)
+
+(https://github-readme-stats.vercel.app/api/top-langs/?username=smajaas&layout=compact&theme=radical&langs_count=8)
+
