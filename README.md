@@ -37,3 +37,17 @@ I'm Mohammed Ajaas, a MERN stack developer from Chennai. I take it as a challeng
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smajaas&layout=compact&theme=radical&langs_count=8)
 
+<!-- <h3>Where to find me</h3> -->
+<!-- <p> -->
+<!-- <a href="https://github.com/ragavkumarv" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
+<!-- <a href="https://twitter.com/ragavkumarv" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
+<!-- <a href="https://www.linkedin.com/in/ragavkumarv/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/linkedin-0a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+<!-- </p> -->
+
+<h2 align="left">Connect with me ❤️</h2>
+<p align="left">
+<a href="https://twitter.com/smajaas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mohammed Ajaas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/smajaas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanush-savadi-2161181b1" height="30" width="40" /></a>
+
+</p>
+
