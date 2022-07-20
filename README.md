@@ -4,4 +4,4 @@ I'm Mohammed Ajaas, a MERN stack developer from Chennai. I take it as a challeng
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smajaas)](https://github.com/anuraghazra/github-readme-stats)
 
-&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smajaas)](https://github.com/anuraghazra/github-readme-stats)
