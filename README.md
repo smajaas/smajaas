@@ -31,7 +31,7 @@ I'm Mohammed Ajaas, a MERN stack developer from Chennai. I take it as a challeng
 
 ## 😄 Cool Status
 
-![Ajaas's GitHub stats](https://github-readme-stats.vercel.app/api?username=smajaas&show_icons=true&theme=radical)
+![Ajaas GitHub stats](https://github-readme-stats.vercel.app/api?username=smajaas&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smajaas&theme=radical)
 
