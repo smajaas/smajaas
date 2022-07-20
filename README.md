@@ -1,13 +1,5 @@
-- 👋 Hi, I’m @smajaas
-- 👀 MERN stack developer
-- 🌱 Experience and Knowledge in HTML,CSS,Javascript,React JS,MongoDB,NodeJS Express and SQL
-- 2 years of Experience as a Developer
-- 10 years ofexperience in Non IT background with knowledge in Business Development & Client Relations specialist
-- Hobbies are Reading Books, Driving long roads, Cooking and Exploring new things.
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...smajaas@gmail.com 
+- 👋 Hi There
 
-<!---
-smajaas/smajaas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Mohammed Ajaas, a MERN stack developer from Chennai. I take it as a challenge and enjoy learning functional programs and frameworks like React and React Native. I concenterate on React, Node JS and React Native. I am looking forward to help you in solving real time challenges.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smajaas)](https://github.com/anuraghazra/github-readme-stats)
