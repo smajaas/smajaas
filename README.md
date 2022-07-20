@@ -6,4 +6,4 @@ I'm Mohammed Ajaas, a MERN stack developer from Chennai. I take it as a challeng
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smajaas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=smajaas)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wakatime)](https://github.com/anuraghazra/github-readme-stats)
