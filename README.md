@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/smajaas"><img src="https://api.daily.dev/devcards/72574b770ec445ffb92f0fcef4f4e3b1.png?r=8an" width="400" alt="Mohammed Ajaas's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/smajaas/smajaas/blob/master/devcard.svg" width="400" alt="Mohammed Ajaas's Dev Card"/></a>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there!.</h1>
 
